@@ -1,6 +1,6 @@
 /**
  * Chapter 3 Drill - Generated Letter
- * @file blueberry_muffins.cpp
+ * @file letter.cpp
  * @author Jeffrey D. Daye
  * @version 1.0
  * @brief An automated letter printed to the terminal
