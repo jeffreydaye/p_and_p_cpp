@@ -25,6 +25,9 @@ int main()
         else if (number == "four"){
             cout << "4\n";
         }
+        else if (number == "zero"){
+            cout << "0\n";
+        }
         else{
             cout << "I don't know that number yet!\n";
         }
