@@ -2,7 +2,7 @@
  * Chapter 4 Drill - Unit Converter
  * @file cunit_converter.cpp
  * @author Jeffrey D. Daye
- * @version 1.0
+ * @version 1.1
  * @brief Program to take in a user input and provide useful conversions.
 */
 
